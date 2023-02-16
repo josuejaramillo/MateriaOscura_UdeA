@@ -1,1 +1,1 @@
-# MateriaOscura_UdeA
+# Proyecto de investigación sobre materia oscura
